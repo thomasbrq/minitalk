@@ -2,6 +2,7 @@
 The purpose of this project is to code a small data exchange program using UNIX signals.
 
 ## How to use
+![Compile with macos](https://badgen.net/badge/build/macOS/grey?icon=apple)
 
 Clone the project
 ```bash
