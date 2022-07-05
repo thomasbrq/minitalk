@@ -29,6 +29,8 @@ And launch the client
 ./client <PID> "String to send"
 ```
 
+## The Norm
+This project was realized following [the standard 42](https://raw.githubusercontent.com/42Paris/norminette-v3/master/pdf/en.norm.pdf). 
 
 ## Authors
 
